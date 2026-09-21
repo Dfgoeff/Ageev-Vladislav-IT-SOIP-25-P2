@@ -1,0 +1,72 @@
+namespace ConsoleApp3
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Car lada = new Car();
+            Car BMW = new Car("BMW","X6",2022,0);
+            BMW.Accelerate(120);
+            lada.Speed = 1;
+            Console.WriteLine($"Brand: {BMW.Brand}");
+            Console.WriteLine($"Model: {BMW.Model}");
+            Console.WriteLine($"Year: {BMW.Year}");
+            Console.WriteLine($"Speed: {BMW.Speed} km/h");
+
+            Console.WriteLine($"Brand: {lada.Brand}");
+            Console.WriteLine($"Model: {lada.Model}");
+            Console.WriteLine($"Year: {lada.Year}");
+            Console.WriteLine($"Speed: {lada.Speed} km/h");
+        }
+    }
+    class Car
+    {
+        private string _brand;
+        private string _model;
+        private int _year;
+        private int _speed;
+
+        public string Brand
+        {
+            get { return _brand; }
+            set { if (value != null) { _brand = value; } else { throw new ArgumentException("Invalid brand name"); } }
+        }
+        public string Model
+        {
+            get { return _model; }
+            set { if (value != null) { _model = value; } else { throw new ArgumentException("Invalid model name"); } }
+        }
+        public int Year
+        {
+            get { return _year; }
+            set { if (value != null) { _year = value; } else { throw new ArgumentException("Invalid year"); } }
+        }
+        public int Speed
+        {
+            get { return _speed; }
+            set { if (value != null && value >= 0) { _speed = value; } else { throw new ArgumentException("Invalid speed"); } }
+        }
+        public Car(string brand, string model, int year, int speed)
+        {
+            _brand = brand;
+            _model = model;
+            _year = year;
+            _speed = speed;
+        }
+        public Car()
+        {
+            _brand = "Lada";
+            _model = "Grande";
+            _year = 2026;
+            _speed = 0;
+        }
+        public void Accelerate(int speed = 0)
+        {
+            if (_speed + speed < 0)
+            {
+                throw new ArgumentException("Invalid speed");
+            }
+            else { _speed += speed; }
+        }
+    }
+}
