@@ -1,0 +1,7 @@
+C:\Users\Windows\source\repos\TASK_2-Delivery\TASK_2-Delivery\bin\Debug\TASK_2-Delivery.exe.config
+C:\Users\Windows\source\repos\TASK_2-Delivery\TASK_2-Delivery\bin\Debug\TASK_2-Delivery.exe
+C:\Users\Windows\source\repos\TASK_2-Delivery\TASK_2-Delivery\bin\Debug\TASK_2-Delivery.pdb
+C:\Users\Windows\source\repos\TASK_2-Delivery\TASK_2-Delivery\obj\Debug\TASK_2-Delivery.csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\TASK_2-Delivery\TASK_2-Delivery\obj\Debug\TASK_2-Delivery.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\TASK_2-Delivery\TASK_2-Delivery\obj\Debug\TASK_2-Delivery.exe
+C:\Users\Windows\source\repos\TASK_2-Delivery\TASK_2-Delivery\obj\Debug\TASK_2-Delivery.pdb
