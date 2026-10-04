@@ -1,0 +1,7 @@
+C:\Users\Windows\source\repos\TASK_3\TASK_3\bin\Debug\TASK_3.exe.config
+C:\Users\Windows\source\repos\TASK_3\TASK_3\bin\Debug\TASK_3.exe
+C:\Users\Windows\source\repos\TASK_3\TASK_3\bin\Debug\TASK_3.pdb
+C:\Users\Windows\source\repos\TASK_3\TASK_3\obj\Debug\TASK_3.csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\TASK_3\TASK_3\obj\Debug\TASK_3.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\TASK_3\TASK_3\obj\Debug\TASK_3.exe
+C:\Users\Windows\source\repos\TASK_3\TASK_3\obj\Debug\TASK_3.pdb
