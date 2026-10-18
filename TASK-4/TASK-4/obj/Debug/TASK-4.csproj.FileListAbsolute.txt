@@ -1,0 +1,2 @@
+C:\Users\Windows\source\repos\TASK-4\TASK-4\obj\Debug\TASK-4.csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\TASK-4\TASK-4\obj\Debug\TASK-4.csproj.CoreCompileInputs.cache
