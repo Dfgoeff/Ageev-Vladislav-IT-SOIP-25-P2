@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Windows\\source\\repos\\TASK_5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{525C6938-0890-4EFB-9836-5AB9EF9EAB41}|TASK_5\\TASK_5.csproj|c:\\users\\windows\\source\\repos\\task_5\\task_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{525C6938-0890-4EFB-9836-5AB9EF9EAB41}|TASK_5\\TASK_5.csproj|solutionrelative:task_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{525C6938-0890-4EFB-9836-5AB9EF9EAB41}|TASK_5\\TASK_5.csproj|C:\\Users\\Windows\\source\\repos\\TASK_5\\task_5\\point3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{525C6938-0890-4EFB-9836-5AB9EF9EAB41}|TASK_5\\TASK_5.csproj|solutionrelative:task_5\\point3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{525C6938-0890-4EFB-9836-5AB9EF9EAB41}|TASK_5\\TASK_5.csproj|C:\\Users\\Windows\\source\\repos\\TASK_5\\task_5\\chesspiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{525C6938-0890-4EFB-9836-5AB9EF9EAB41}|TASK_5\\TASK_5.csproj|solutionrelative:task_5\\chesspiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{525C6938-0890-4EFB-9836-5AB9EF9EAB41}|TASK_5\\TASK_5.csproj|C:\\Users\\Windows\\source\\repos\\TASK_5\\task_5\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{525C6938-0890-4EFB-9836-5AB9EF9EAB41}|TASK_5\\TASK_5.csproj|solutionrelative:task_5\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{525C6938-0890-4EFB-9836-5AB9EF9EAB41}|TASK_5\\TASK_5.csproj|C:\\Users\\Windows\\source\\repos\\TASK_5\\task_5\\simpledate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{525C6938-0890-4EFB-9836-5AB9EF9EAB41}|TASK_5\\TASK_5.csproj|solutionrelative:task_5\\simpledate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{525C6938-0890-4EFB-9836-5AB9EF9EAB41}|TASK_5\\TASK_5.csproj|C:\\Users\\Windows\\source\\repos\\TASK_5\\task_5\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{525C6938-0890-4EFB-9836-5AB9EF9EAB41}|TASK_5\\TASK_5.csproj|solutionrelative:task_5\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{525C6938-0890-4EFB-9836-5AB9EF9EAB41}|TASK_5\\TASK_5.csproj|C:\\Users\\Windows\\source\\repos\\TASK_5\\task_5\\vector2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{525C6938-0890-4EFB-9836-5AB9EF9EAB41}|TASK_5\\TASK_5.csproj|solutionrelative:task_5\\vector2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{525C6938-0890-4EFB-9836-5AB9EF9EAB41}|TASK_5\\TASK_5.csproj|C:\\Users\\Windows\\source\\repos\\TASK_5\\task_5\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{525C6938-0890-4EFB-9836-5AB9EF9EAB41}|TASK_5\\TASK_5.csproj|solutionrelative:task_5\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{525C6938-0890-4EFB-9836-5AB9EF9EAB41}|TASK_5\\TASK_5.csproj|C:\\Users\\Windows\\source\\repos\\TASK_5\\task_5\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{525C6938-0890-4EFB-9836-5AB9EF9EAB41}|TASK_5\\TASK_5.csproj|solutionrelative:task_5\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{525C6938-0890-4EFB-9836-5AB9EF9EAB41}|TASK_5\\TASK_5.csproj|C:\\Users\\Windows\\source\\repos\\TASK_5\\task_5\\complexnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{525C6938-0890-4EFB-9836-5AB9EF9EAB41}|TASK_5\\TASK_5.csproj|solutionrelative:task_5\\complexnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{525C6938-0890-4EFB-9836-5AB9EF9EAB41}|TASK_5\\TASK_5.csproj|C:\\Users\\Windows\\source\\repos\\TASK_5\\task_5\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{525C6938-0890-4EFB-9836-5AB9EF9EAB41}|TASK_5\\TASK_5.csproj|solutionrelative:task_5\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{525C6938-0890-4EFB-9836-5AB9EF9EAB41}|TASK_5\\TASK_5.csproj|C:\\Users\\Windows\\source\\repos\\TASK_5\\task_5\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{525C6938-0890-4EFB-9836-5AB9EF9EAB41}|TASK_5\\TASK_5.csproj|solutionrelative:task_5\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChessPiece.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\source\\repos\\TASK_5\\TASK_5\\ChessPiece.cs",
+              "RelativeDocumentMoniker": "TASK_5\\ChessPiece.cs",
+              "ToolTip": "C:\\Users\\Windows\\source\\repos\\TASK_5\\TASK_5\\ChessPiece.cs",
+              "RelativeToolTip": "TASK_5\\ChessPiece.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T01:42:11.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Point3D.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\source\\repos\\TASK_5\\TASK_5\\Point3D.cs",
+              "RelativeDocumentMoniker": "TASK_5\\Point3D.cs",
+              "ToolTip": "C:\\Users\\Windows\\source\\repos\\TASK_5\\TASK_5\\Point3D.cs",
+              "RelativeToolTip": "TASK_5\\Point3D.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T01:34:56.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\source\\repos\\TASK_5\\TASK_5\\Triangle.cs",
+              "RelativeDocumentMoniker": "TASK_5\\Triangle.cs",
+              "ToolTip": "C:\\Users\\Windows\\source\\repos\\TASK_5\\TASK_5\\Triangle.cs",
+              "RelativeToolTip": "TASK_5\\Triangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T01:09:23.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Money.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\source\\repos\\TASK_5\\TASK_5\\Money.cs",
+              "RelativeDocumentMoniker": "TASK_5\\Money.cs",
+              "ToolTip": "C:\\Users\\Windows\\source\\repos\\TASK_5\\TASK_5\\Money.cs",
+              "RelativeToolTip": "TASK_5\\Money.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T00:49:51.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Vector2D.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\source\\repos\\TASK_5\\TASK_5\\Vector2D.cs",
+              "RelativeDocumentMoniker": "TASK_5\\Vector2D.cs",
+              "ToolTip": "C:\\Users\\Windows\\source\\repos\\TASK_5\\TASK_5\\Vector2D.cs",
+              "RelativeToolTip": "TASK_5\\Vector2D.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T00:31:11.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SimpleDate.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\source\\repos\\TASK_5\\TASK_5\\SimpleDate.cs",
+              "RelativeDocumentMoniker": "TASK_5\\SimpleDate.cs",
+              "ToolTip": "C:\\Users\\Windows\\source\\repos\\TASK_5\\TASK_5\\SimpleDate.cs",
+              "RelativeToolTip": "TASK_5\\SimpleDate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T00:03:17.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\source\\repos\\TASK_5\\TASK_5\\Color.cs",
+              "RelativeDocumentMoniker": "TASK_5\\Color.cs",
+              "ToolTip": "C:\\Users\\Windows\\source\\repos\\TASK_5\\TASK_5\\Color.cs",
+              "RelativeToolTip": "TASK_5\\Color.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T23:50:07.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ComplexNumber.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\source\\repos\\TASK_5\\TASK_5\\ComplexNumber.cs",
+              "RelativeDocumentMoniker": "TASK_5\\ComplexNumber.cs",
+              "ToolTip": "C:\\Users\\Windows\\source\\repos\\TASK_5\\TASK_5\\ComplexNumber.cs",
+              "RelativeToolTip": "TASK_5\\ComplexNumber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T23:32:27.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\source\\repos\\TASK_5\\TASK_5\\Book.cs",
+              "RelativeDocumentMoniker": "TASK_5\\Book.cs",
+              "ToolTip": "C:\\Users\\Windows\\source\\repos\\TASK_5\\TASK_5\\Book.cs",
+              "RelativeToolTip": "TASK_5\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T23:23:07.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\source\\repos\\TASK_5\\TASK_5\\Rectangle.cs",
+              "RelativeDocumentMoniker": "TASK_5\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\Windows\\source\\repos\\TASK_5\\TASK_5\\Rectangle.cs",
+              "RelativeToolTip": "TASK_5\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T23:18:47.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\source\\repos\\TASK_5\\TASK_5\\Point.cs",
+              "RelativeDocumentMoniker": "TASK_5\\Point.cs",
+              "ToolTip": "C:\\Users\\Windows\\source\\repos\\TASK_5\\TASK_5\\Point.cs",
+              "RelativeToolTip": "TASK_5\\Point.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T23:05:40.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\source\\repos\\TASK_5\\TASK_5\\Program.cs",
+              "RelativeDocumentMoniker": "TASK_5\\Program.cs",
+              "ToolTip": "C:\\Users\\Windows\\source\\repos\\TASK_5\\TASK_5\\Program.cs",
+              "RelativeToolTip": "TASK_5\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowD0AAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T23:03:36.816Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
