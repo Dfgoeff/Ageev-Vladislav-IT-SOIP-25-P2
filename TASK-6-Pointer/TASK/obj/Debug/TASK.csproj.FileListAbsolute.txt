@@ -1,0 +1,8 @@
+C:\Users\AgeevVD\source\repos\TASK\TASK\bin\Debug\TASK.exe.config
+C:\Users\AgeevVD\source\repos\TASK\TASK\bin\Debug\TASK.exe
+C:\Users\AgeevVD\source\repos\TASK\TASK\bin\Debug\TASK.pdb
+C:\Users\AgeevVD\source\repos\TASK\TASK\obj\Debug\TASK.csproj.AssemblyReference.cache
+C:\Users\AgeevVD\source\repos\TASK\TASK\obj\Debug\TASK.csproj.CoreCompileInputs.cache
+C:\Users\AgeevVD\source\repos\TASK\TASK\obj\Debug\TASK.exe
+C:\Users\AgeevVD\source\repos\TASK\TASK\obj\Debug\TASK.pdb
+C:\Users\AgeevVD\source\repos\TASK\TASK\obj\Debug\TASK.exe.config
